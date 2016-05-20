@@ -11,20 +11,20 @@ scutclient for OpenWrt
 Todo List
 ---
 
- 大概会包含Makefile和配置文件吧
- 最好能塞到feeds.conf.default里一句然后update下剩下就全都出来了撒手不管了的那种
+ 大概会包含Makefile和配置文件吧  
+ 最好能塞到feeds.conf.default里一句然后update下剩下就全都出来了撒手不管了的那种  
  关于其他的问题return 0;  （这个todo写在scutclient那里更合适吧喂
 
 
 编译  
 ---
 
- 见todo
+ 见todo  
 
 
 配置  
 ---
  
- 见todo
+ 见todo  
 
   [1]: https://github.com/scutclient/scutclient
